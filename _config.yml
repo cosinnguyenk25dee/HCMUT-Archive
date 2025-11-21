@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Lưu trữ xanh
+remote_theme: pmarsceill/just-the-docs
+title: Lưu trữ xanh HCMUT
 description: Kho tài liệu của một sinh viên K25 khoa Điện Trường Đại học Bách Khoa - Đại học Quốc gia TP.HCM
+search_enabled: true
+color_scheme: light
